@@ -13,6 +13,7 @@
               <span class="heart-count">{{ message.likes.length }}</span>
             </div>
           </div>
+          <span class="created-at">{{ message.created_at }}前</span>
         </li>
       </ul>
     </div>
